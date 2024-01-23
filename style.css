@@ -1,0 +1,43 @@
+body{
+    background: rgb(4, 2, 44);
+    font: normal 15pt arial;
+ 
+}
+header{
+    padding-top: 150px;
+    text-align: center;
+    color: yellow;
+}
+section{
+    
+    background-color: rgb(4, 101, 38);
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px yellow;
+    color: white;
+}
+
+footer{
+    color: yellow;
+    text-align: center;
+    font-style: italic;
+}
+div{
+    
+    padding: 5px;
+}
+div#divResultado{
+    text-align: center;
+    
+}
+img{
+    width: 300px;
+    height: 200px;
+    align-items: start;
+}
+select#select{
+    margin-top: 10px;
+    width: 200px;
+}
